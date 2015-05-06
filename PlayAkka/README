@@ -1,4 +1,6 @@
-This is your new Play application
-=================================
+PlayAkka test project
 
-This file will be packaged with your application, when using `activator dist`.
+/*=======================================*/
+
+Goal of this project is to understand nature of undelivered messages.
+Result: no undelivered messages, everything works correctly.
